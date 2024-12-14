@@ -20,14 +20,16 @@ To install PyTorch, follow the official installation guide: [PyTorch Installatio
 
 Clone the repository to your local machine:
 
-```bash
+'''bash
 git clone https://github.com/yourusername/transformer-from-scratch.git
 cd transformer-from-scratch
+'''
 
 ## Install the necessary dependencies
 
 '''bash
 pip install torch
+'''
 # Model Architecture
 
 ## Self-Attention Layer
